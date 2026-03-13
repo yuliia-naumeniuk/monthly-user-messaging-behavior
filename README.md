@@ -2,7 +2,8 @@
 SQL analysis of monthly user messaging activity with message share and first/last activity dates.
 
 ## Business Task
-Analyze monthly messaging activity and calculate the percentage of messages for each user. Identify the first and last message dates for users within each month.
+Analyze monthly messaging activity and calculate the percentage of messages for each user.
+Identify the first and last message dates for users within each month.
 
 ## Tools
 SQL, Joins, Aggregations, Window Functions, Date Functions
