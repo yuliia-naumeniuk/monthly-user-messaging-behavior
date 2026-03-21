@@ -6,7 +6,7 @@ Analyze monthly messaging activity and calculate the percentage of messages for 
 Identify the first and last message dates for users within each month.
 
 ## Tools
-SQL, Joins, Aggregations, Window Functions, Date Functions
+SQL (Joins, Aggregations, Window Functions, Date Functions)
 
 ## Key Insights
 - The dataset shows monthly messaging activity for each user.
